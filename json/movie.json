@@ -1,0 +1,55 @@
+[
+	{
+		"folder" : "movies",
+		"id" : "navMovieButton"
+	},
+
+	{
+		"name" : "Catle in the Sky",
+		"short_name" : "CS",
+		"url" : "https://9anime.to/watch/castle-in-the-sky-dub.l1wq"
+	},
+
+	{
+		"name" : "Howl's Moving Castle",
+		"short_name" : "HC",
+		"url" : "https://9anime.to/watch/howls-moving-castle-dub.no9l"
+	},
+
+	{
+		"name" : "Your Name is",
+		"short_name" : "KM",
+		"url" : "https://9anime.to/watch/your-name-dub.l4yz"
+	},
+
+	{
+		"name" : "kiki delivery service",
+		"short_name" : "KS",
+		"url" : "https://9anime.to/watch/kikis-delivery-service-dub.k9yr"
+	},
+
+	{
+		"name" : "My neighbour Totoro",
+		"short_name" : "MT",
+		"url" : "https://9anime.to/watch/my-neighbor-totoro-dub.jwxy"
+	},
+
+	{
+		"name" : "Spirited Away",
+		"short_name" : "SA",
+		"url" : "https://9anime.to/watch/spirited-away-dub.x48v"
+	},
+
+	{
+		"name" : "Whisper of the Heart",
+		"short_name" : "WH",
+		"url" : "https://9anime.to/watch/whisper-of-the-heart-dub.o42z"
+	},
+
+	{
+		"name" : "Weathering with You",
+		"short_name" : "WW",
+		"url" : "https://9anime.to/watch/weathering-with-you.9xqn"
+	}
+]
+
